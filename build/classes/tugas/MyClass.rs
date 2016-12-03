@@ -1,0 +1,2 @@
+tugas.MyClass
+tugas.WelcomeMessage
